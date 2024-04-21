@@ -24,7 +24,7 @@ pip install paapi5-python-sdk
 Or, you may also install directly from Github
 
 ```sh
-pip install git+https://github.com/amzn/paapi5-python-sdk.git
+pip install git+https://github.com/jisan09/paapi5.git
 ```
 (you may need to run `pip` with root permission: `sudo pip install git+https://github.com/amzn/paapi5-python-sdk.git`)
 
